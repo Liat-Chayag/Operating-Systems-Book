@@ -1,4 +1,5 @@
 # Mastering Operating Systems: From Architecture to Synchronization
+!! In a problem displaying the file, download it to a computer !!
 
 Dive deep into the core foundations of modern computing with this comprehensive guide to operating systems. Designed for computer science students, software engineers, and tech enthusiasts alike, this textbook bridges the gap between theoretical concepts and practical system architecture, offering an in-depth exploration of how hardware and software seamlessly interact.
 
